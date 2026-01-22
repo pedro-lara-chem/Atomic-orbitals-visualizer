@@ -205,3 +205,15 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+venv/
+
+# Output 3D Models
+*.gltf
+
+# System files
+.DS_Store
+Thumbs.db
