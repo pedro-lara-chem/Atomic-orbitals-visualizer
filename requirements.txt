@@ -1,0 +1,6 @@
+numpy
+numba
+pyvista
+matplotlib
+# PyQt5 is often required for PyVista's rendering engine on desktop
+PyQt5
