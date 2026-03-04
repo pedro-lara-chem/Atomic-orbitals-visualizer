@@ -33,7 +33,7 @@ The script scans the **current directory** for any `.molden` files and processes
 1.  **Place your `.molden` files** in the project root (or copy the script to your data folder).
 2.  **Run the script:**
     ```bash
-    python src/Atomic_orbs_numba.py
+    python src/Atomic_orbs.py
     ```
 3.  **Follow the interactive prompts:**
     * **Grid Points:** Define resolution (Default: 61). Higher = smoother but slower.
@@ -44,7 +44,7 @@ The script scans the **current directory** for any `.molden` files and processes
 We provide a dummy $H_2$ file in `data/`. Copy it to the root to test:
 ```bash
 cp data/example.molden .
-python src/Atomic_orbs_numba.py
+python src/Atomic_orbs.py
 ```
 ## 📂 Outputs
 The script generates **.gltf** files in the same directory:
