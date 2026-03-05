@@ -18,7 +18,7 @@ A high-performance Python tool for visualizing molecular structures and atomic o
 1.  **Clone the repository:**
     ```bash
     git clone https://github.com/pedro-lara-chem/Atomic-orbitals-visualizer.git
-    cd Atomic-Orbital-Visualizer
+    cd Atomic-orbitals-visualizer
     ```
 
 2.  **Install dependencies:**
