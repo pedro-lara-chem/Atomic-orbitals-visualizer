@@ -53,7 +53,7 @@ The script generates **.gltf** files in the same directory:
 
 * **MoleculeName_MO1_E-0.50.gltf** (Molecular Orbital 3D models)
 
-## Disclaimer
+## ⚠️ Disclaimer
 If you find a segmentation fault (core dumped) after providing the molecular orbital indices, it could be a problem of Mesa and OpenGL. Try to use the following lines:
 ```bash
 unset LIBGL_ALWAYS_INDIRECT
